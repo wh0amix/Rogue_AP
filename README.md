@@ -25,7 +25,7 @@ Avant de commencer, assurez-vous d’avoir :
 ## 🚀 **Installation et Lancement**
 ### 1️⃣ **Cloner le dépôt**
 ```bash
-git clone https://github.com/votre-repo/RogueAP-WPA2-Phishing.git
+git clone https://github.com/wh0amix/RogueAP-WPA2-Phishing.git
 cd RogueAP-WPA2-Phishing
 ```
 
